@@ -38,7 +38,7 @@ License
 The Book Store application is not subject to any license as it is a code snippet provided for reference and educational purposes.
 
 Author
-This code snippet is provided as an example by Your Name. Feel free to reach out if you have any questions or inquiries related to this code.
+This code snippet is provided as an example by Your Jaimaica Daisy Eugenio. Feel free to reach out if you have any questions or inquiries related to this code.
 
 
 
